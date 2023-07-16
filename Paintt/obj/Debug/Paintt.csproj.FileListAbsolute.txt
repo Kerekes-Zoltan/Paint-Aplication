@@ -1,0 +1,20 @@
+C:\Users\CRISTI\Desktop\Paintt\Paintt\bin\Debug\Paintt.exe.config
+C:\Users\CRISTI\Desktop\Paintt\Paintt\bin\Debug\Paintt.exe
+C:\Users\CRISTI\Desktop\Paintt\Paintt\bin\Debug\Paintt.pdb
+C:\Users\CRISTI\Desktop\Paintt\Paintt\obj\Debug\Paintt.csprojResolveAssemblyReference.cache
+C:\Users\CRISTI\Desktop\Paintt\Paintt\obj\Debug\Paintt.Form1.resources
+C:\Users\CRISTI\Desktop\Paintt\Paintt\obj\Debug\Paintt.Properties.Resources.resources
+C:\Users\CRISTI\Desktop\Paintt\Paintt\obj\Debug\Paintt.csproj.GenerateResource.Cache
+C:\Users\CRISTI\Desktop\Paintt\Paintt\obj\Debug\Paintt.csproj.CoreCompileInputs.cache
+C:\Users\CRISTI\Desktop\Paintt\Paintt\obj\Debug\Paintt.exe
+C:\Users\CRISTI\Desktop\Paintt\Paintt\obj\Debug\Paintt.pdb
+E:\New folder\Scoala\Paintt\Paintt\bin\Debug\Paintt.exe.config
+E:\New folder\Scoala\Paintt\Paintt\bin\Debug\Paintt.exe
+E:\New folder\Scoala\Paintt\Paintt\bin\Debug\Paintt.pdb
+E:\New folder\Scoala\Paintt\Paintt\obj\Debug\Paintt.csprojAssemblyReference.cache
+E:\New folder\Scoala\Paintt\Paintt\obj\Debug\Paintt.Form1.resources
+E:\New folder\Scoala\Paintt\Paintt\obj\Debug\Paintt.Properties.Resources.resources
+E:\New folder\Scoala\Paintt\Paintt\obj\Debug\Paintt.csproj.GenerateResource.cache
+E:\New folder\Scoala\Paintt\Paintt\obj\Debug\Paintt.csproj.CoreCompileInputs.cache
+E:\New folder\Scoala\Paintt\Paintt\obj\Debug\Paintt.exe
+E:\New folder\Scoala\Paintt\Paintt\obj\Debug\Paintt.pdb
